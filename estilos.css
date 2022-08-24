@@ -16,7 +16,7 @@ h2 {
 
 p {
   font-family: "Asap", sans-serif;
-  font-weight: regular;
+  font-weight: 400;
   font-size: 25pt;
   color: #04146c;
 }
@@ -29,14 +29,14 @@ h3{
 
 ul{
   font-family: "Asap", sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 25pt;
   color: #04146c;
 }
 
 h4{
   font-family: "MuseoModerno", cursive;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 149pt;
   color: #8a9af1;
 
