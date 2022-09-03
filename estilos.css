@@ -1,0 +1,43 @@
+body{
+  background-color:  #edf7ff;
+}
+
+h1 {
+  font-family: "MuseoModerno", cursive;
+  font-size: 88pt;
+  color: #0a2ff1;
+}
+
+h2 {
+  font-family: "Asap", sans-serif;
+  font-size: 39pt;
+  color: #0a2ff1;
+}
+
+p {
+  font-family: "Asap", sans-serif;
+  font-weight: 400;
+  font-size: 25pt;
+  color: #04146c;
+}
+
+h3{
+  font-family: "MuseoModerno", cursive;
+  font-size: 36pt;
+ color: #0a2ff1;
+}
+
+ul{
+  font-family: "Asap", sans-serif;
+  font-weight: 700;
+  font-size: 25pt;
+  color: #04146c;
+}
+
+h4{
+  font-family: "MuseoModerno", cursive;
+  font-weight: 700;
+  font-size: 149pt;
+  color: #8a9af1;
+
+}
